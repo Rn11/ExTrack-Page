@@ -3,7 +3,7 @@
 
 body {
   padding: 0;
-  margin: 0;
+  margin: 10%;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -58,11 +58,10 @@ a {
   text-align: left;
   position:fixed;
   width:100%;
-  /*background-color: #E3E3E3;*/
   background-image: url(https://raw.githubusercontent.com/Rn11/ExTrack/bb78e3714e12b403649f768b1e1cf656ab990ebe/images/fitness.jpg);
- background-repeat: no-repeat; 
- background-attachment: fixed;
- overflow:hidden;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  overflow:hidden;
 }
 
 @media screen and (min-width: 64em) {
