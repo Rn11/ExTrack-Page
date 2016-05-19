@@ -60,7 +60,9 @@ a {
   background-image: url(https://raw.githubusercontent.com/Rn11/ExTrack/bb78e3714e12b403649f768b1e1cf656ab990ebe/images/fitness3.jpg);
   
  background-repeat: no-repeat; 
- background-attachment: fixed;
+ background-attachment: scroll;
+ background-position: center; 
+
  overflow:hidden;
 }
 
