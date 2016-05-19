@@ -58,8 +58,8 @@ a {
   text-align: left;
   /*background-color: #E3E3E3;*/
   background-image: url(https://github.com/Rn11/ExTrack/raw/gh-pages/images/fitness.jpg)
-  background-repeat: no-repeat;
- background-attachment: fixed;
+ /* background-repeat: no-repeat;
+ background-attachment: fixed;*/
 }
 
 @media screen and (min-width: 64em) {
