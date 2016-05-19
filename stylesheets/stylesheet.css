@@ -57,7 +57,10 @@ a {
   color: #fff;
   text-align: left;
   background-color: #E3E3E3;
-  background-image: url(https://github.com/Rn11/ExTrack/raw/gh-pages/images/fitness.jpg) }
+ /* background-image: url(https://github.com/Rn11/ExTrack/raw/gh-pages/images/fitness.jpg) */
+@media (min-width:800px) { background-image: url(https://github.com/Rn11/ExTrack/raw/gh-pages/images/fitness.jpg) }
+@media (min-width:1024px) { background-image: url(https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg) }
+@media (min-width:1280px) { background-image: url(bghttps://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg) }}
 
 @media screen and (min-width: 64em) {
   .page-header {
