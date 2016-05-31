@@ -1,1 +1,2 @@
-
+User-agent: *
+Sitemap: http://trackworkout.de/sitemap.xml
